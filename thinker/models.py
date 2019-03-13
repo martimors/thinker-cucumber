@@ -1,2 +1,2 @@
 #This will hold the models (db)
-from app import db
+from thinker import db
